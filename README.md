@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" width="140" alt="Jewish STEM Network logo">
+<img src="assets/logo.jpeg" width="140" alt="Jewish STEM Network logo">
 
 # Jewish STEM Network
 ### Connect. Discover. Impact.
@@ -14,7 +14,7 @@ We're a global, welcoming community of **Jewish university students and young pr
 Whether you're a first-year biology student, a software engineer, a PhD researcher or just STEM-curious, there's a place for you here.
 
 ## 🐑 Meet DiNA
-<img src="dina.png" width="200" align="right" alt="DiNA, the JSN mascot">
+<img src="assets/DiNA.jpeg" width="200" align="right" alt="DiNA, the JSN mascot">
 
 DiNA is our lab-coat-wearing mascot and your guide to the network. She loves experiments, good questions and new friends.
 
